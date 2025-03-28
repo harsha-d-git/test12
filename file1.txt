@@ -1,0 +1,4 @@
+total 28
+-rw-rw-r-- 1 ubuntu ubuntu     9 Mar 28 18:09 README.md
+-rw-rw-r-- 1 ubuntu ubuntu 22302 Mar 28 18:13 history.txt
+-rw-rw-r-- 1 ubuntu ubuntu     0 Mar 28 18:17 file1.txt
